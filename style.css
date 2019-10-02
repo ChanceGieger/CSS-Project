@@ -1,0 +1,25 @@
+#container{
+  width: 1200px;
+  margin: auto;
+  background: orange;
+}
+#nav1{
+  width: 60%;
+  float: left;
+  text-align: center;
+}
+#header{
+  width: 40%;
+  float: left;
+  background: yellow;
+  text-align: center;
+}
+#divider{
+  width: 100%;
+}
+#para{
+  background: pink;
+}
+#images{
+
+}
