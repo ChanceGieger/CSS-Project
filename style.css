@@ -1,25 +1,40 @@
 #container{
   width: 1200px;
   margin: auto;
-  background: orange;
+  background: lightgray;
 }
 #nav1{
-  width: 60%;
+  width: 56%;
   float: left;
   text-align: center;
+  background: lightgreen;
+  padding: 1%;
+  margin: 1%;
 }
 #header{
-  width: 40%;
+  width: 36%;
   float: left;
-  background: yellow;
+  background: green;
   text-align: center;
+  padding: 1%;
+  margin: 1%;
 }
 #divider{
   width: 100%;
+  clear: both;
+  background: black;
 }
 #para{
+  width: 54%;
+  float: right;
   background: pink;
+  padding: 1%;
+  margin: 1%;
 }
-#images{
-
+#sidebar{
+  width: 38%;
+  float: left;
+  background: orange;
+  padding: 1%;
+  margin: 1%;
 }
