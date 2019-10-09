@@ -41,7 +41,7 @@
 #para1{
   width: 69%;
   height: 312px;
-  float: right;
+  float: left;
   background: #ff8800;
   padding: 1%;
   margin: 1%;
@@ -62,21 +62,24 @@
   margin: 1%;
 }
 #para4{
-  width: 1%;
-  float: left;
+  width: 50%;
+  height: 657px;
+  float: right;
   background: #ff8800;
   padding: 1%;
   margin: 1%;
 }
 #para5{
-  width: 1%;
+  width: 96%;
+  height: 300px;
   float: left;
   background: #ff8800;
   padding: 1%;
   margin: 1%;
 }
 #para6{
-  width: 1%;
+  width: 50%;
+  height: 325px;
   float: left;
   background: #ff8800;
   padding: 1%;
