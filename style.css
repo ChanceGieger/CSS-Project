@@ -4,6 +4,30 @@
   margin: auto;
   background: #ffb536;
 }
+#nav1{
+  width: 70%;
+  height: 10px;
+  float: left;
+  padding: 1%;
+  margin: 1%;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+  background: #f59c02;
+}
+li{
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+li a{
+  text-decoration: none;
+  color: black;
+}
+/*
 #nav{
   width: 13.5%;
   float: left;
@@ -12,6 +36,7 @@
   padding: 1%;
   margin: 1%;
 }
+*/
 
 
 #header{
