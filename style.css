@@ -8,14 +8,12 @@
 /* #ffb536 Orange Background*/
 
 #nav1{
-  width: 50%;
   height: 10px;
   float: left;
   padding: 1%;
   margin: 1%;
 }
 .pagetop{
-  width: 26%
   float: right;
   background-color: #56E0D5;
 
@@ -25,12 +23,15 @@ ul{
   padding: 0;
   overflow: hidden;
   list-style-type: none;
-  background: #f59c02;
 }
 li{
   float: left;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background: #f59c02;
 }
 li a{
   text-decoration: none;
