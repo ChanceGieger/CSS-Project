@@ -7,19 +7,18 @@
 /* width=840px height=950px */
 /* #ffb536 Orange Background*/
 
-#nav1{
-  height: 10px;
-  float: left;
-  padding: 10px;
-  margin: 10px;
-}
 .pagetop{
   float: right;
   margin-right: 40px;
   margin-top: 5px;
   margin-bottom: 5px;
-  background-color: #56E0D5;
-
+  background-color: none;
+}
+#nav1{
+  height: 10px;
+  float: left;
+  padding: 10px;
+  margin: 10px;
 }
 ul{
   margin: 0;
@@ -34,7 +33,7 @@ li{
   padding-right: 20px;
   margin-left: 10px;
   margin-right: 10px;
-  background: #f59c02;
+  background: #FFA400;
 }
 li a{
   text-decoration: none;
@@ -47,8 +46,8 @@ li a{
   width: 100%;
   clear: both;
   text-align: center;
-  color: #f59c02;
-  background: #f59c02;
+  color: #FF820D;
+  background: #FF820D;
 }
 
 /*   Content   */
@@ -57,7 +56,7 @@ li a{
   width: 23%;
   height: 763px;
   float: left;
-  background: #ff8800;
+  background: #FFC600;
   padding: 1%;
   margin: 1%;
 }
@@ -65,14 +64,14 @@ li a{
   width: 69%;
   height: 344px;
   float: left;
-  background: #ff8800;
+  background: #FFC600;
   padding: 1%;
   margin: 1%;
 }
 #para2{
   width: 1%;
   float: left;
-  background: #ff8800;
+  background: #FFC600;
   padding: 1%;
   margin: 1%;
 }
@@ -80,7 +79,7 @@ li a{
   width: 69%;
   height: 763px;
   float: left;
-  background: #ff8800;
+  background: #FFC600;
   padding: 1%;
   margin: 1%;
 }
@@ -88,7 +87,7 @@ li a{
   width: 50%;
   height: 763px;
   float: right;
-  background: #ff8800;
+  background: #FFC600;
   padding: 1%;
   margin: 1%;
 }
@@ -96,7 +95,7 @@ li a{
   width: 96%;
   height: 344px;
   float: left;
-  background: #ff8800;
+  background: #FFC600;
   padding: 1%;
   margin: 1%;
 }
@@ -104,7 +103,7 @@ li a{
   width: 50%;
   height: 344px;
   float: left;
-  background: #ff8800;
+  background: #FFC600;
   padding: 1%;
   margin: 1%;
 }
