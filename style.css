@@ -10,11 +10,14 @@
 #nav1{
   height: 10px;
   float: left;
-  padding: 1%;
-  margin: 1%;
+  padding: 10px;
+  margin: 10px;
 }
 .pagetop{
   float: right;
+  margin-right: 40px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   background-color: #56E0D5;
 
 }
@@ -38,24 +41,6 @@ li a{
   color: black;
 }
 
-
-/*
-#nav{
-  width: 13.5%;
-  float: left;
-  text-align: center;
-  background: #ff8800;
-  padding: 1%;
-  margin: 1%;
-}
-#header{
-  width: 26%;
-  float: right;
-  text-align: center;
-  padding: 1%;
-}
-*/
-
 #divider{
   width: 100%;
   clear: both;
@@ -68,7 +53,7 @@ li a{
 
 #sidebar{
   width: 23%;
-  height: 657px;
+  height: 763px;
   float: left;
   background: #ff8800;
   padding: 1%;
@@ -76,7 +61,7 @@ li a{
 }
 #para1{
   width: 69%;
-  height: 312px;
+  height: 344px;
   float: left;
   background: #ff8800;
   padding: 1%;
@@ -91,7 +76,7 @@ li a{
 }
 #para3{
   width: 69%;
-  height: 657px;
+  height: 763px;
   float: left;
   background: #ff8800;
   padding: 1%;
@@ -99,7 +84,7 @@ li a{
 }
 #para4{
   width: 50%;
-  height: 657px;
+  height: 763px;
   float: right;
   background: #ff8800;
   padding: 1%;
@@ -107,7 +92,7 @@ li a{
 }
 #para5{
   width: 96%;
-  height: 300px;
+  height: 344px;
   float: left;
   background: #ff8800;
   padding: 1%;
@@ -115,7 +100,7 @@ li a{
 }
 #para6{
   width: 50%;
-  height: 325px;
+  height: 344px;
   float: left;
   background: #ff8800;
   padding: 1%;
