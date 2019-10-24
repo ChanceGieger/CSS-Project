@@ -102,6 +102,11 @@ li a{
   height: 344px;
   float: left;
   background: #FFA400;
+  text-align: center;
   padding: 1%;
   margin: 1%;
+}
+.Image1{
+  width: 46%;
+  float: right;
 }
