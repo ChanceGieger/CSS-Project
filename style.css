@@ -4,14 +4,17 @@
   margin: auto;
   background: #56E0D5;
 }
-
+/* Head Image */
 .pagetop{
   float: right;
-  margin-right: 40px;
+  margin-right: 100px;
   margin-top: 5px;
   margin-bottom: 5px;
-  background-color: none;
+  border-radius: 30px;
+
 }
+
+/* ____________ */
 #nav1{
   height: 10px;
   float: left;
@@ -60,15 +63,9 @@ li a{
 }
 #para1{
   width: 69%;
-  height: 344px;
+  height: 354px;
   float: left;
-  background: #FFA400;
-  padding: 1%;
-  margin: 1%;
-}
-#para2{
-  width: 1%;
-  float: left;
+  font-size: 1.5em;
   background: #FFA400;
   padding: 1%;
   margin: 1%;
@@ -77,6 +74,7 @@ li a{
   width: 69%;
   height: 763px;
   float: left;
+  font-size: 2.0em;
   background: #FFA400;
   padding: 1%;
   margin: 1%;
@@ -85,6 +83,7 @@ li a{
   width: 50%;
   height: 763px;
   float: right;
+  font-size: 1.5em;
   background: #FFA400;
   padding: 1%;
   margin: 1%;
@@ -93,6 +92,7 @@ li a{
   width: 96%;
   height: 344px;
   float: left;
+  font-size: 1.5em;
   background: #FFA400;
   padding: 1%;
   margin: 1%;
@@ -101,12 +101,18 @@ li a{
   width: 50%;
   height: 344px;
   float: left;
+  font-size: 1.5em;
   background: #FFA400;
   text-align: center;
   padding: 1%;
   margin: 1%;
 }
 .Image1{
-  width: 46%;
+  max-width: 46%;
+  height: auto;
   float: right;
+}
+.Image2{
+  float: left;
+  margin: 2%;
 }
