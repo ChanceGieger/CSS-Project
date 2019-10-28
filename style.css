@@ -20,13 +20,13 @@
   padding: 10px;
   margin: 10px;
 }
-ul{
+div#nav1 ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
   list-style-type: none;
 }
-li{
+div#nav1 ul li{
   float: left;
   padding: 10px;
   padding-left: 20px;
@@ -35,7 +35,7 @@ li{
   margin-right: 10px;
   background: #FFA400;
 }
-li a{
+div#nav1 ul li a{
   text-decoration: none;
   color: black;
 }
@@ -114,4 +114,8 @@ li a{
 .Image2{
   float: left;
   margin: 2%;
+}
+.ColorList{
+  font-size: 1.5em;
+  float:none;
 }
