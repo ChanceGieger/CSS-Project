@@ -11,7 +11,6 @@
   margin-top: 5px;
   margin-bottom: 5px;
   border-radius: 30px;
-
 }
 
 /* ____________ */
@@ -61,7 +60,7 @@ li a{
   padding: 1%;
   margin: 1%;
 }
-#para1{
+.para1{
   width: 69%;
   height: 354px;
   float: left;
