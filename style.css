@@ -69,7 +69,7 @@ div#nav1 ul li a{
   padding: 1%;
   margin: 1%;
 }
-#para3{
+#para2{
   width: 69%;
   height: 763px;
   float: left;
@@ -78,7 +78,7 @@ div#nav1 ul li a{
   padding: 1%;
   margin: 1%;
 }
-#para4{
+#para3{
   width: 50%;
   height: 763px;
   float: right;
@@ -87,16 +87,16 @@ div#nav1 ul li a{
   padding: 1%;
   margin: 1%;
 }
-#para5{
+#para4{
   width: 96%;
   height: 344px;
   float: left;
-  font-size: 1.5em;
+  font-size: 2.0em;
   background: #FFA400;
   padding: 1%;
   margin: 1%;
 }
-#para6{
+#para5{
   width: 50%;
   height: 344px;
   float: left;
@@ -110,11 +110,17 @@ div#nav1 ul li a{
   max-width: 46%;
   height: auto;
   float: right;
+  margin-right: 100px;
 }
 .Image2{
   float: left;
   margin: 2%;
 }
+div.Image2 img{
+  width: 33.0em;
+  height: auto;
+}
+
 .ColorList{
   font-size: 1.5em;
   float:none;
